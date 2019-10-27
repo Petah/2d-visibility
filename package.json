@@ -20,7 +20,6 @@
   },
   "scripts": {
     "build": "rollup -c",
-    "start": "rollup -w",
     "lint": "tslint --project tsconfig.json"
   }
 }
